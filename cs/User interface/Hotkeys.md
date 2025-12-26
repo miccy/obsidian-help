@@ -9,6 +9,12 @@ mobile: true
 publish: true
 ---
 
+---
+...
+---
+
+# Klávesové zkratky
+
 Klávesové zkratky (Hotkeys) vám umožňují provádět akce rychle bez použití myši.
 
 ## Správa klávesových zkratek
