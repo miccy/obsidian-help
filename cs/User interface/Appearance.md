@@ -13,6 +13,9 @@ mobile: true
 publish: true
 ---
 
+
+# Vzhled a motivy
+
 Vzhled a chování Obsidianu si můžete přizpůsobit v **Settings** (Nastavení) -> **Appearance** (Vzhled).
 
 ## Základní motiv
