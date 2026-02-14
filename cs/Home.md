@@ -65,7 +65,7 @@ Díky tisícům pluginů a motivů vzhledu si můžete Obsidian přizpůsobit sv
 
 ## Zapojte se
 
-Pokud na tomto webu najdete nějaké chyby nebo chybějící informace, můžete přispět vylepšeními a překlady prostřednictvím [GitHub repozitáře](https://github.com/obsidianmd/obsidian-docs/).
+Pokud na tomto webu najdete nějaké chyby nebo chybějící informace, můžete přispět vylepšeními a překlady prostřednictvím [repozitáře na GitHubu](https://github.com/obsidianmd/obsidian-docs/).
 
 Pokud chcete Obsidian podpořit finančně, zvažte [[Catalyst license|licenci Catalyst]], která nabízí dřívější přístup k beta verzím, nebo [[Commercial license|komerční licenci]], abyste vyjádřili podporu vaší organizace.
 
